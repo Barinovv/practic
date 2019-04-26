@@ -71,7 +71,7 @@ $ads = $_POST;
 <li><textarea class="text-field" type="text" name="description" value="" placeholder="Введите описание продукта"></textarea></li>
 <li><textarea class="text-field" type="text" name="characteristics" value="" placeholder="Расскажите подробнее о продукте и оставьте ваши контакты "></textarea></li>
 
-<li><input type="text" name="snils" value="" placeholder="Введите дату подачи объявления"></li>
+//<li><input type="text" name="" value="" placeholder="Введите дату подачи объявления"></li>
 
 <button name="do_record"  id="button-form-record" >Отправить объявление</button>
 </ul>
