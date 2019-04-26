@@ -100,7 +100,7 @@ require "../includs/db.php";
 
 <footer>
 	<div class="footer__menu">
-		<p> © 2018 Услуги городской поликлиники | Баринов Антон 15ИТ18  </p>
+		<p>  © 2019 Доска объявлений "Купи-продай" | Баринов Антон 15ИТ18   </p>
 	
 	<img src="/images/vkicon.png" class="footer__icon">
 	<img src="/images/okicon.png" class="footer__icon">
