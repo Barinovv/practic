@@ -1,0 +1,41 @@
+.finish{
+    width: 300px;
+    height: 150px;
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    color: white; 
+}
+
+html{
+    background-color: black;
+    opacity: .9;
+    
+}
+
+#button-form-record {
+    width: 70%;;
+    height: 35px;
+    font: 19px sans-serif;
+  border: transparent;
+    border-radius: 99px;
+    border: 1px solid #222222;
+    margin-top: 15%;
+    text-align: center;
+    margin-left: 15%;
+cursor: pointer;  
+}
+
+.label-form-record{
+    font: 21px sans-serif;
+    width: 100%;
+  }
+
+.label-form-record-size{
+    font-size: 10px;
+}
+.text-field{
+    height: 80px; 
+    width: 223px; 
+    resize: none;
+}

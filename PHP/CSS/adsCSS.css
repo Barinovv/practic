@@ -1,0 +1,48 @@
+body{
+		margin: 0;
+		padding: 0;
+		background-image: url('../images/background.png'); 
+		background-size: cover;
+		background-repeat: no-repeat;
+		
+	}
+	.wrapper{
+		max-width: 1200px;
+		margin: 15px auto;
+		background: #fff;
+		-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+		-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+		box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+		padding: 15px;
+		height: 79vh;
+	}
+	.wrapper-head{
+		display: grid;
+		grid-template-columns: 500px auto;
+		grid-gap: 20px;
+	}
+
+	.wrapper-list{
+		width: 100%;
+
+	}
+
+	.img{
+		max-width: 500px;
+		height: auto;
+		}
+
+	.front-ads{
+		font-size: 25pt;
+		font-family: TimesNewRoman;
+		margin-left: 16px;
+	}
+
+	.text{
+		font-family: TimesNewRoman;
+		font-size: 13pt;
+	}
+	.description-ads{
+		font-family: TimesNewRoman;
+		font-size: 18pt;
+	}
