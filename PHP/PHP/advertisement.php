@@ -17,7 +17,7 @@ $ads = $_POST;
         }
        
         if (empty($error)){
-            $board = R::dispense('blackboard'); //создать таблицу
+            $board = R::dispense('blackboard'); 
             $board->title = $ads['title']; 
             $board->description = $ads['description']; 
             $board->characteristics = $ads['characteristics'];
