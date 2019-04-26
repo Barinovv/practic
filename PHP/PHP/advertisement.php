@@ -22,7 +22,6 @@ $ads = $_POST;
             $board->description = $ads['description']; 
             $board->characteristics = $ads['characteristics'];
             R::store($board);
-            echo '<div class="window"></div>';
             echo '<div class="finish">Успешно! Объявление отправлено в обработку.</div>';
         }else{ 
             echo '<div id="error">'.array_shift($error).'</div>';
